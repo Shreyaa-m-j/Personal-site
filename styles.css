@@ -1,0 +1,243 @@
+body {
+    margin: 0;
+}
+
+/* Styling navbar section */
+#navbar {
+    background-color: #FFFFDD;
+}
+#navbar li a{
+    color: #016A70!important;
+    font-size: 1.1rem;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+}
+#navbar .navbar-brand{
+    color: #016A70;
+    font-size: 1.5rem;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+}
+
+/* Styling Hero section */
+#hero {
+    background-color: #D2DE32;
+    color: #016A70;
+}
+
+#hero p {
+    font-family: 'Mulish', sans-serif;
+    color: #016A70;
+    font-weight: 600;
+}
+
+#hero h1 {
+    font-family: 'Courgette', cursive;
+}
+
+/* Styling Education section */
+#education {
+    background-color: #FFFFDD;
+    color: #9da714;
+}
+
+#education .head-division h3 {
+    line-height: 1;
+    font-family: 'Mulish', sans-serif;
+    color: #FFFFDD;
+    font-weight: 600;
+}
+
+#education .head-division {
+    margin-bottom: 1rem;
+    background-color: #00777d;
+    padding: 0.6rem;
+    border-radius: 2%;
+}
+
+#education>div>h2 {
+    color: #9da714;
+    font-family: 'Courgette', cursive;
+}
+
+#education p {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+#education hr {
+    color: #016A70;
+}
+
+/* styling experience section */
+#experience .container {
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+}
+
+#experience {
+    background-color: #D2DE32;
+}
+
+#experience h2 {
+    color: #016A70;
+    font-family: 'Courgette', cursive;
+}
+
+#experience>.container>.row {
+    padding-top: 3rem;
+}
+
+#experience .card {
+    background-color: #FFFFDD;
+    padding: 1rem;
+}
+
+#experience .card-body h3,
+h5 {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 600;
+}
+
+#experience .card-body p {
+    color: #9da714;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+#experience .card hr {
+    color: #016A70;
+}
+
+#experience>.container>hr {
+    color: #016A70;
+}
+
+#experience .cardtitles{
+    background-color: #00777d;
+    color: #FFFFDD;
+    padding: 0.5rem;
+    border-radius: 2%;
+}
+
+/* styling skills section */
+#skills img {
+    margin: auto;
+    border-radius: 2%;
+}
+
+.carousel-inner p {
+    color: #016A70 !important;
+}
+
+#skills {
+    background-color: #FFFFDD;
+}
+
+#skills h2 {
+    color: #016A70;
+    font-family: 'Courgette', cursive;
+}
+
+#skills .container {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+#skills hr {
+    color: #016A70;
+}
+
+#skills h5 {
+    color: #FFFFDD;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+#skills p {
+    color: #016A70 !important;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+#skills .carousel-inner {
+    margin-top: 3rem;
+}
+
+.carousel-control-next-icon {
+    background-image: url(./images/right-arrow.png);
+}
+
+.carousel-control-prev-icon {
+    background-image: url(./images/left-arrow.png);
+}
+
+/* styling projects section */
+#projects .btn {
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Mulish', sans-serif;
+    color: #FFFFDD;
+    font-size: 20px;
+    background: #016a70;
+    padding: 7px 25px 7px 25px;
+    text-decoration: none;
+}
+
+#projects .btn:hover {
+    background: #00afb8;
+    text-decoration: none;
+}
+
+#projects{
+    background-color: #D2DE32;
+}
+
+#projects .container {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+#projects .closer{
+    line-height: 1.25;
+}
+
+#projects h2 {
+    color: #016A70;
+    font-family: 'Courgette', cursive;
+}
+
+#projects .card-body{
+    background-color: #FFFFDD;
+    color: #9da714;
+    font-family: 'Mulish', sans-serif;
+}
+
+#projects .card-body h3{
+    font-weight: 600;
+}
+#projects .card-body p{
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+/* styling Footer Section */
+#contacts li a{
+    color: #016A70!important;
+    font-weight: 700;
+}
+#contacts{
+    background-color:#FFFFDD ;
+    font-family: 'Mulish', sans-serif;
+}
+#contacts footer{
+    margin: 0!important;
+}
+#contacts p{
+    font-weight: 700;
+    color: #016A70!important;
+
+}
